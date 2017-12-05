@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\Simple-Calculations\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\Simple-Calculations\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\Simple-Calculations\RadiansToDegrees\bin\Debug\RadiansToDegrees.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\Simple-Calculations\RadiansToDegrees\obj\Debug\RadiansToDegrees.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\Simple-Calculations\RadiansToDegrees\obj\Debug\RadiansToDegrees.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\Simple-Calculations\RadiansToDegrees\obj\Debug\RadiansToDegrees.pdb

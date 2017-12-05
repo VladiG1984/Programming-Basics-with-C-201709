@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointOnRectanbleBoarder\bin\Debug\PointOnRectanbleBoarder.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointOnRectanbleBoarder\bin\Debug\PointOnRectanbleBoarder.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointOnRectanbleBoarder\bin\Debug\PointOnRectanbleBoarder.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointOnRectanbleBoarder\obj\Debug\PointOnRectanbleBorder.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointOnRectanbleBoarder\obj\Debug\PointOnRectanbleBorder.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointOnRectanbleBoarder\obj\Debug\PointOnRectanbleBoarder.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointOnRectanbleBoarder\obj\Debug\PointOnRectanbleBoarder.pdb

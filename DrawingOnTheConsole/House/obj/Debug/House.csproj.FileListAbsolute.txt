@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\House\bin\Debug\House.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\House\bin\Debug\House.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\House\bin\Debug\House.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\House\obj\Debug\House.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\House\obj\Debug\House.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\House\obj\Debug\House.pdb

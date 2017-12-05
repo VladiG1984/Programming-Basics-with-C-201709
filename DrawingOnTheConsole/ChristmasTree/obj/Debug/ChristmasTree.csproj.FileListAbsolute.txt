@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\ChristmasTree\bin\Debug\ChristmasTree.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\ChristmasTree\bin\Debug\ChristmasTree.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\ChristmasTree\obj\Debug\ChristmasTree.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\ChristmasTree\obj\Debug\ChristmasTree.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\ChristmasTree\obj\Debug\ChristmasTree.pdb

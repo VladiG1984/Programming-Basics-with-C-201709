@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointInTheFigure\bin\Debug\PointInTheFigure.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointInTheFigure\bin\Debug\PointInTheFigure.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointInTheFigure\bin\Debug\PointInTheFigure.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointInTheFigure\obj\Debug\PointInTheFigure.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointInTheFigure\obj\Debug\PointInTheFigure.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointInTheFigure\obj\Debug\PointInTheFigure.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointInTheFigure\obj\Debug\PointInTheFigure.pdb

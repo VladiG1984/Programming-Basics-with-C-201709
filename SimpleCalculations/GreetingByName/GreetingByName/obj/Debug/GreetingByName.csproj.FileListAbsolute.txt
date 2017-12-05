@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\GreetingByName\GreetingByName\bin\Debug\GreetingByName.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\GreetingByName\GreetingByName\bin\Debug\GreetingByName.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\GreetingByName\GreetingByName\bin\Debug\GreetingByName.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\GreetingByName\GreetingByName\obj\Debug\GreetingByName.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\GreetingByName\GreetingByName\obj\Debug\GreetingByName.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\GreetingByName\GreetingByName\obj\Debug\GreetingByName.pdb

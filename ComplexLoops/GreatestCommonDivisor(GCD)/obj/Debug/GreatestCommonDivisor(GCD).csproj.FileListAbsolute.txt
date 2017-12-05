@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\GreatestCommonDivisor(GCD)\bin\Debug\GreatestCommonDivisor(GCD).exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\GreatestCommonDivisor(GCD)\bin\Debug\GreatestCommonDivisor(GCD).exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\GreatestCommonDivisor(GCD)\bin\Debug\GreatestCommonDivisor(GCD).pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\GreatestCommonDivisor(GCD)\obj\Debug\GreatestCommonDivisor(GCD).csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\GreatestCommonDivisor(GCD)\obj\Debug\GreatestCommonDivisor(GCD).exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\GreatestCommonDivisor(GCD)\obj\Debug\GreatestCommonDivisor(GCD).pdb

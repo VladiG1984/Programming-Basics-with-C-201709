@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\NumberPyramid\bin\Debug\NumberPyramid.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\NumberPyramid\bin\Debug\NumberPyramid.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\NumberPyramid\obj\Debug\NumberPyramid.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\NumberPyramid\obj\Debug\NumberPyramid.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\NumberPyramid\obj\Debug\NumberPyramid.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\NumberPyramid\obj\Debug\NumberPyramid.csprojResolveAssemblyReference.cache

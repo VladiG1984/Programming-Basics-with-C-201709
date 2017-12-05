@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\CircleAreaAndPerimeter\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\CircleAreaAndPerimeter\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\CircleAreaAndPerimeter\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\CircleAreaAndPerimeter\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\CircleAreaAndPerimeter\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\CircleAreaAndPerimeter\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.pdb

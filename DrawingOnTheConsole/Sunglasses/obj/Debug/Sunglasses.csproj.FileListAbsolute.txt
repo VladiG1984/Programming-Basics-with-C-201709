@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\Sunglasses\bin\Debug\Sunglasses.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\Sunglasses\bin\Debug\Sunglasses.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\Sunglasses\bin\Debug\Sunglasses.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\Sunglasses\obj\Debug\Sunglasses.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\Sunglasses\obj\Debug\Sunglasses.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\Sunglasses\obj\Debug\Sunglasses.pdb

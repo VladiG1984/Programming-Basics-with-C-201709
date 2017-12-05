@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\MetricConverter\bin\Debug\MetricConverter.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\MetricConverter\bin\Debug\MetricConverter.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\MetricConverter\bin\Debug\MetricConverter.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\MetricConverter\obj\Debug\MetricConverter.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\MetricConverter\obj\Debug\MetricConverter.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\MetricConverter\obj\Debug\MetricConverter.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\MetricConverter\obj\Debug\MetricConverter.pdb

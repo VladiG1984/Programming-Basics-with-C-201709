@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RectangleOfNxNStars\bin\Debug\RectangleOfNxNStars.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RectangleOfNxNStars\bin\Debug\RectangleOfNxNStars.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RectangleOfNxNStars\bin\Debug\RectangleOfNxNStars.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RectangleOfNxNStars\obj\Debug\RectangleOfNxNStars.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RectangleOfNxNStars\obj\Debug\RectangleOfNxNStars.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RectangleOfNxNStars\obj\Debug\RectangleOfNxNStars.pdb

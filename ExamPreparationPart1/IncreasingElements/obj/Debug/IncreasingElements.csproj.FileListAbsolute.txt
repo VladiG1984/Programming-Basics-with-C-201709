@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\IncreasingElements\bin\Debug\IncreasingElements.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\IncreasingElements\bin\Debug\IncreasingElements.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\IncreasingElements\bin\Debug\IncreasingElements.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\IncreasingElements\obj\Debug\IncreasingElements.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\IncreasingElements\obj\Debug\IncreasingElements.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\IncreasingElements\obj\Debug\IncreasingElements.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\IncreasingElements\obj\Debug\IncreasingElements.pdb

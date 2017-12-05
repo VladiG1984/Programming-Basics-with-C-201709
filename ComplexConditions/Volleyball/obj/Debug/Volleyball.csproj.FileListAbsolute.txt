@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\Volleyball\bin\Debug\Volleyball.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\Volleyball\bin\Debug\Volleyball.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\Volleyball\bin\Debug\Volleyball.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\Volleyball\obj\Debug\Volleyball.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\Volleyball\obj\Debug\Volleyball.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\Volleyball\obj\Debug\Volleyball.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\Volleyball\obj\Debug\Volleyball.pdb

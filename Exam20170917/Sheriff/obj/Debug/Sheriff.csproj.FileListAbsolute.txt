@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\Sheriff\bin\Debug\Sheriff.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\Sheriff\bin\Debug\Sheriff.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\Sheriff\bin\Debug\Sheriff.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\Sheriff\obj\Debug\Sheriff.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\Sheriff\obj\Debug\Sheriff.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\Sheriff\obj\Debug\Sheriff.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\Sheriff\obj\Debug\Sheriff.pdb

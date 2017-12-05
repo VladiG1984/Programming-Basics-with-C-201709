@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\RectangleArea\RectangleArea\bin\Debug\RectangleArea.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\RectangleArea\RectangleArea\obj\Debug\RectangleArea.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\RectangleArea\RectangleArea\obj\Debug\RectangleArea.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\RectangleArea\RectangleArea\obj\Debug\RectangleArea.pdb

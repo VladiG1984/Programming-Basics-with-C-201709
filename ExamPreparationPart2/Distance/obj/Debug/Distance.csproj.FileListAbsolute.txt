@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\Distance\bin\Debug\Distance.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\Distance\bin\Debug\Distance.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\Distance\bin\Debug\Distance.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\Distance\obj\Debug\Distance.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\Distance\obj\Debug\Distance.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\Distance\obj\Debug\Distance.pdb

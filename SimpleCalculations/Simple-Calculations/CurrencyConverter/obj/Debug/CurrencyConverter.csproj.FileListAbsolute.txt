@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\Simple-Calculations\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\Simple-Calculations\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\Simple-Calculations\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\Simple-Calculations\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\Simple-Calculations\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\Simple-Calculations\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\Simple-Calculations\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

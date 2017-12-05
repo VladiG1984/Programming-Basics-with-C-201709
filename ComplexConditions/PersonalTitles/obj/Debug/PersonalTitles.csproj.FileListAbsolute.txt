@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PersonalTitles\bin\Debug\PersonalTitles.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PersonalTitles\bin\Debug\PersonalTitles.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PersonalTitles\bin\Debug\PersonalTitles.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.pdb

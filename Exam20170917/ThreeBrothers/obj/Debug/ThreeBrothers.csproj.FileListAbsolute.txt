@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\ThreeBrothers\bin\Debug\ThreeBrothers.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\ThreeBrothers\bin\Debug\ThreeBrothers.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\ThreeBrothers\bin\Debug\ThreeBrothers.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\ThreeBrothers\obj\Debug\ThreeBrothers.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\ThreeBrothers\obj\Debug\ThreeBrothers.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\ThreeBrothers\obj\Debug\ThreeBrothers.pdb

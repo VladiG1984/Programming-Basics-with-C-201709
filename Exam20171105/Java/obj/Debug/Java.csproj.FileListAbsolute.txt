@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Java\bin\Debug\Java.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Java\bin\Debug\Java.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Java\bin\Debug\Java.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Java\obj\Debug\Java.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Java\obj\Debug\Java.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Java\obj\Debug\Java.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Java\obj\Debug\Java.csprojResolveAssemblyReference.cache

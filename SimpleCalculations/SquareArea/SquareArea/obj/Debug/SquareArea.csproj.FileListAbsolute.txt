@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\SquareArea\SquareArea\bin\Debug\SquareArea.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\SquareArea\SquareArea\bin\Debug\SquareArea.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\SquareArea\SquareArea\bin\Debug\SquareArea.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\SquareArea\SquareArea\obj\Debug\SquareArea.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\SquareArea\SquareArea\obj\Debug\SquareArea.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\SquareArea\SquareArea\obj\Debug\SquareArea.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\SquareArea\SquareArea\obj\Debug\SquareArea.pdb

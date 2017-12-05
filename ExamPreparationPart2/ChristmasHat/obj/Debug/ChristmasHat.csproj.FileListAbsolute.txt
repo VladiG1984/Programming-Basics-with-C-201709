@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\ChristmasHat\bin\Debug\ChristmasHat.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\ChristmasHat\bin\Debug\ChristmasHat.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\ChristmasHat\bin\Debug\ChristmasHat.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\ChristmasHat\obj\Debug\ChristmasHat.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\ChristmasHat\obj\Debug\ChristmasHat.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\ChristmasHat\obj\Debug\ChristmasHat.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\ChristmasHat\obj\Debug\ChristmasHat.pdb

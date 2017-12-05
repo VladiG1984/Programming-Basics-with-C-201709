@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\SquareOfStars\bin\Debug\SquareOfStars.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\SquareOfStars\bin\Debug\SquareOfStars.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\SquareOfStars\obj\Debug\SquareOfStars.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\SquareOfStars\obj\Debug\SquareOfStars.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\SquareOfStars\obj\Debug\SquareOfStars.pdb

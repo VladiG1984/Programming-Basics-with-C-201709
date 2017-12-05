@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

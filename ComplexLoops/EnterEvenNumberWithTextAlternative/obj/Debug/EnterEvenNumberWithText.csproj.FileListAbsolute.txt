@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EnterEvenNumberWithTextAlternative\bin\Debug\EnterEvenNumberWithTextAlternative.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EnterEvenNumberWithTextAlternative\bin\Debug\EnterEvenNumberWithTextAlternative.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EnterEvenNumberWithTextAlternative\bin\Debug\EnterEvenNumberWithTextAlternative.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EnterEvenNumberWithTextAlternative\obj\Debug\EnterEvenNumberWithText.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EnterEvenNumberWithTextAlternative\obj\Debug\EnterEvenNumberWithTextAlternative.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EnterEvenNumberWithTextAlternative\obj\Debug\EnterEvenNumberWithTextAlternative.pdb

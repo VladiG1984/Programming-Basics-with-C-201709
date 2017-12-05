@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\Diamond\bin\Debug\Diamond.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\Diamond\bin\Debug\Diamond.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\Diamond\bin\Debug\Diamond.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\Diamond\obj\Debug\Diamond.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\Diamond\obj\Debug\Diamond.pdb

@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Bricks\bin\Debug\Bricks.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Bricks\bin\Debug\Bricks.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Bricks\bin\Debug\Bricks.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Bricks\obj\Debug\Bricks.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Bricks\obj\Debug\Bricks.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Bricks\obj\Debug\Bricks.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Bricks\obj\Debug\Bricks.csprojResolveAssemblyReference.cache

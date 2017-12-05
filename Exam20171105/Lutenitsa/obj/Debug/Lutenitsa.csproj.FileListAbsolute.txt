@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Lutenitsa\bin\Debug\Lutenitsa.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Lutenitsa\bin\Debug\Lutenitsa.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Lutenitsa\bin\Debug\Lutenitsa.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Lutenitsa\obj\Debug\Lutenitsa.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Lutenitsa\obj\Debug\Lutenitsa.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Lutenitsa\obj\Debug\Lutenitsa.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Lutenitsa\obj\Debug\Lutenitsa.pdb

@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\SumSeconds\bin\Debug\SumSeconds.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\SumSeconds\bin\Debug\SumSeconds.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\SumSeconds\bin\Debug\SumSeconds.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\SumSeconds\obj\Debug\SumSeconds.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\SumSeconds\obj\Debug\SumSeconds.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\SumSeconds\obj\Debug\SumSeconds.pdb

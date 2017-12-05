@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointInRectangle\bin\Debug\PointInRectangle.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointInRectangle\bin\Debug\PointInRectangle.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointInRectangle\bin\Debug\PointInRectangle.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.pdb

@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\CourierExpress\bin\Debug\CourierExpress.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\CourierExpress\bin\Debug\CourierExpress.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\CourierExpress\bin\Debug\CourierExpress.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\CourierExpress\obj\Debug\CourierExpress.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\CourierExpress\obj\Debug\CourierExpress.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\CourierExpress\obj\Debug\CourierExpress.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\CourierExpress\obj\Debug\CourierExpress.pdb

@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\PointOnSegment\bin\Debug\PointOnSegment.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\PointOnSegment\bin\Debug\PointOnSegment.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\PointOnSegment\bin\Debug\PointOnSegment.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\PointOnSegment\obj\Debug\PointOnSegment.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\PointOnSegment\obj\Debug\PointOnSegment.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\PointOnSegment\obj\Debug\PointOnSegment.pdb

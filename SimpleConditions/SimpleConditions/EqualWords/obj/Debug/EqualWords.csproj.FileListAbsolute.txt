@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\EqualWords\bin\Debug\EqualWords.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\EqualWords\bin\Debug\EqualWords.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\EqualWords\bin\Debug\EqualWords.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\EqualWords\obj\Debug\EqualWords.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\EqualWords\obj\Debug\EqualWords.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\EqualWords\obj\Debug\EqualWords.pdb

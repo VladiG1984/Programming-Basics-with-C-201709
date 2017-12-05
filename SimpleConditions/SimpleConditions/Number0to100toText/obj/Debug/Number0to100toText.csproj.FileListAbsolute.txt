@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\Number0to100toText\bin\Debug\Number0to100toText.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\Number0to100toText\bin\Debug\Number0to100toText.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\Number0to100toText\bin\Debug\Number0to100toText.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\Number0to100toText\obj\Debug\Number0to100toText.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\Number0to100toText\obj\Debug\Number0to100toText.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\Number0to100toText\obj\Debug\Number0to100toText.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\Number0to100toText\obj\Debug\Number0to100toText.pdb

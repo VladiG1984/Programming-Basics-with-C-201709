@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\CheckPrimerAlternative\bin\Debug\CheckPrimerAlternative.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\CheckPrimerAlternative\bin\Debug\CheckPrimerAlternative.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\CheckPrimerAlternative\bin\Debug\CheckPrimerAlternative.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\CheckPrimerAlternative\obj\Debug\CheckPrimerAlternative.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\CheckPrimerAlternative\obj\Debug\CheckPrimerAlternative.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\CheckPrimerAlternative\obj\Debug\CheckPrimerAlternative.pdb

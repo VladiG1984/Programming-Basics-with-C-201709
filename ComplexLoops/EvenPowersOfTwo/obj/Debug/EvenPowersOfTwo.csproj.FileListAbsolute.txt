@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.pdb

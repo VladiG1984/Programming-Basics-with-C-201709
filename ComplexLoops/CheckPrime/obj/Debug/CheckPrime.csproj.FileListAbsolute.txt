@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\CheckPrime\bin\Debug\CheckPrime.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\CheckPrime\bin\Debug\CheckPrime.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\CheckPrime\bin\Debug\CheckPrime.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\CheckPrime\obj\Debug\CheckPrime.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\CheckPrime\obj\Debug\CheckPrime.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\CheckPrime\obj\Debug\CheckPrime.pdb

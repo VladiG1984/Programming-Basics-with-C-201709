@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\Number_1to9_ToText\bin\Debug\Number_1to9_ToText.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\Number_1to9_ToText\bin\Debug\Number_1to9_ToText.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\Number_1to9_ToText\bin\Debug\Number_1to9_ToText.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\Number_1to9_ToText\obj\Debug\Number_1to9_ToText.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\Number_1to9_ToText\obj\Debug\Number_1to9_ToText.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\Number_1to9_ToText\obj\Debug\Number_1to9_ToText.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\Number_1to9_ToText\obj\Debug\Number_1to9_ToText.pdb

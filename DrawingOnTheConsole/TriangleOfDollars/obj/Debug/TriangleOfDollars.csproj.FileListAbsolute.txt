@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\TriangleOfDollars\obj\Debug\TriangleOfDollars.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb

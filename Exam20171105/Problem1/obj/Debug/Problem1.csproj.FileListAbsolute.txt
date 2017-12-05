@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Problem1\bin\Debug\Problem1.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Problem1\bin\Debug\Problem1.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Problem1\bin\Debug\Problem1.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Problem1\obj\Debug\Problem1.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\Problem1\obj\Debug\Problem1.pdb

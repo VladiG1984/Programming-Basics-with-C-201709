@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb

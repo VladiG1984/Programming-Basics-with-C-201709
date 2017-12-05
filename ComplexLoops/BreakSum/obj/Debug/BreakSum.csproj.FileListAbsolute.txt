@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\BreakSum\bin\Debug\BreakSum.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\BreakSum\bin\Debug\BreakSum.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\BreakSum\bin\Debug\BreakSum.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\BreakSum\obj\Debug\BreakSum.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\BreakSum\obj\Debug\BreakSum.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\BreakSum\obj\Debug\BreakSum.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\BreakSum\obj\Debug\BreakSum.pdb

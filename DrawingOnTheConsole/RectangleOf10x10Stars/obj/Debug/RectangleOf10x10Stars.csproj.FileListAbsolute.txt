@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.pdb

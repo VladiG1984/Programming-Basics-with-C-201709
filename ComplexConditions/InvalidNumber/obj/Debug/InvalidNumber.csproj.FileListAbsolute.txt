@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\InvalidNumber\bin\Debug\InvalidNumber.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\InvalidNumber\bin\Debug\InvalidNumber.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\InvalidNumber\bin\Debug\InvalidNumber.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\InvalidNumber\obj\Debug\InvalidNumber.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\InvalidNumber\obj\Debug\InvalidNumber.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\InvalidNumber\obj\Debug\InvalidNumber.pdb

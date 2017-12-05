@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\RectangleWithStars\bin\Debug\RectangleWithStars.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\RectangleWithStars\bin\Debug\RectangleWithStars.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\RectangleWithStars\bin\Debug\RectangleWithStars.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\RectangleWithStars\obj\Debug\RectangleWithStars.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\RectangleWithStars\obj\Debug\RectangleWithStars.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\RectangleWithStars\obj\Debug\RectangleWithStars.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\RectangleWithStars\obj\Debug\RectangleWithStars.pdb

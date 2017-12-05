@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Fibonacci\bin\Debug\Fibonacci.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Fibonacci\obj\Debug\Fibonacci.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Fibonacci\obj\Debug\Fibonacci.pdb

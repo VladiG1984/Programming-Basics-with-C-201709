@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\AnimalType\bin\Debug\AnimalType.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\AnimalType\bin\Debug\AnimalType.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\AnimalType\bin\Debug\AnimalType.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\AnimalType\obj\Debug\AnimalType.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\AnimalType\obj\Debug\AnimalType.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\AnimalType\obj\Debug\AnimalType.pdb

@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Numbers1toNwithStep3\bin\Debug\Numbers1toNwithStep3.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Numbers1toNwithStep3\bin\Debug\Numbers1toNwithStep3.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Numbers1toNwithStep3\bin\Debug\Numbers1toNwithStep3.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Numbers1toNwithStep3\obj\Debug\Numbers1toNwithStep3.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Numbers1toNwithStep3\obj\Debug\Numbers1toNwithStep3.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Numbers1toNwithStep3\obj\Debug\Numbers1toNwithStep3.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Numbers1toNwithStep3\obj\Debug\Numbers1toNwithStep3.pdb

@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\Birthday\bin\Debug\Birthday.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\Birthday\bin\Debug\Birthday.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\Birthday\bin\Debug\Birthday.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\Birthday\obj\Debug\Birthday.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\Birthday\obj\Debug\Birthday.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\Birthday\obj\Debug\Birthday.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\Birthday\obj\Debug\Birthday.pdb

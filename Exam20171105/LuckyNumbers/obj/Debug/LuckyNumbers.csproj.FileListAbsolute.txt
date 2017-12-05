@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\LuckyNumbers\bin\Debug\LuckyNumbers.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\LuckyNumbers\bin\Debug\LuckyNumbers.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\LuckyNumbers\bin\Debug\LuckyNumbers.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\LuckyNumbers\obj\Debug\LuckyNumbers.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\LuckyNumbers\obj\Debug\LuckyNumbers.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20171105\LuckyNumbers\obj\Debug\LuckyNumbers.pdb

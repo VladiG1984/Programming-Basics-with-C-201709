@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\SquareFrame\bin\Debug\SquareFrame.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\SquareFrame\bin\Debug\SquareFrame.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\SquareFrame\bin\Debug\SquareFrame.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\SquareFrame\obj\Debug\SquareFrame.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\SquareFrame\obj\Debug\SquareFrame.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\SquareFrame\obj\Debug\SquareFrame.pdb

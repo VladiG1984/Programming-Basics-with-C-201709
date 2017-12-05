@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\TheSongOfTheWheels\bin\Debug\TheSongOfTheWheels.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\TheSongOfTheWheels\bin\Debug\TheSongOfTheWheels.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\TheSongOfTheWheels\bin\Debug\TheSongOfTheWheels.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\TheSongOfTheWheels\obj\Debug\TheSongOfTheWheels.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\TheSongOfTheWheels\obj\Debug\TheSongOfTheWheels.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\TheSongOfTheWheels\obj\Debug\TheSongOfTheWheels.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\TheSongOfTheWheels\obj\Debug\TheSongOfTheWheels.pdb

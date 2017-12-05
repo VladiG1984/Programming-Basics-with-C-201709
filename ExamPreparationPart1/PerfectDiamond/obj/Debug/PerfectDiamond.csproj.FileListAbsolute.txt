@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\PerfectDiamond\bin\Debug\PerfectDiamond.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\PerfectDiamond\bin\Debug\PerfectDiamond.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\PerfectDiamond\bin\Debug\PerfectDiamond.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\PerfectDiamond\obj\Debug\PerfectDiamond.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\PerfectDiamond\obj\Debug\PerfectDiamond.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\PerfectDiamond\obj\Debug\PerfectDiamond.pdb

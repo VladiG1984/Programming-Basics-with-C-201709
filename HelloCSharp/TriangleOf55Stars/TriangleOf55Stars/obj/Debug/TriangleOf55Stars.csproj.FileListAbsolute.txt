@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\TriangleOf55Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\TriangleOf55Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\TriangleOf55Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

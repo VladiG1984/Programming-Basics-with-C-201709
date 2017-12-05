@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\NumberTable\bin\Debug\NumberTable.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\NumberTable\bin\Debug\NumberTable.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\NumberTable\bin\Debug\NumberTable.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\NumberTable\obj\Debug\NumberTable.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\NumberTable\obj\Debug\NumberTable.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\NumberTable\obj\Debug\NumberTable.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\NumberTable\obj\Debug\NumberTable.csprojResolveAssemblyReference.cache

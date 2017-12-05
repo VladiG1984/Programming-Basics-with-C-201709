@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\DateAfterFiveDays\bin\Debug\DateAfterFiveDays.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\DateAfterFiveDays\bin\Debug\DateAfterFiveDays.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\DateAfterFiveDays\bin\Debug\DateAfterFiveDays.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\DateAfterFiveDays\obj\Debug\DateAfterFiveDays.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\DateAfterFiveDays\obj\Debug\DateAfterFiveDays.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\DateAfterFiveDays\obj\Debug\DateAfterFiveDays.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\DateAfterFiveDays\obj\Debug\DateAfterFiveDays.pdb

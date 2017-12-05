@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\Flowers\bin\Debug\Flowers.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\Flowers\bin\Debug\Flowers.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\Flowers\bin\Debug\Flowers.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\Flowers\obj\Debug\Flowers.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\Flowers\obj\Debug\Flowers.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\Flowers\obj\Debug\Flowers.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\Flowers\obj\Debug\Flowers.pdb

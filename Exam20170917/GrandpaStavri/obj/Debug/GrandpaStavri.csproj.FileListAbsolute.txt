@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\GrandpaStavri\bin\Debug\GrandpaStavri.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\GrandpaStavri\bin\Debug\GrandpaStavri.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\GrandpaStavri\bin\Debug\GrandpaStavri.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\GrandpaStavri\obj\Debug\GrandpaStavri.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\GrandpaStavri\obj\Debug\GrandpaStavri.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\GrandpaStavri\obj\Debug\GrandpaStavri.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\GrandpaStavri\obj\Debug\GrandpaStavri.pdb

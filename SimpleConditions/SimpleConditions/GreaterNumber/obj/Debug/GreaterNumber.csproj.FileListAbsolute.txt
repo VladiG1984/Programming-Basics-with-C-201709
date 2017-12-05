@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\GreaterNumber\bin\Debug\GreaterNumber.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\GreaterNumber\bin\Debug\GreaterNumber.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\GreaterNumber\obj\Debug\GreaterNumber.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\GreaterNumber\obj\Debug\GreaterNumber.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\GreaterNumber\obj\Debug\GreaterNumber.pdb

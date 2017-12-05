@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\GenerateRectangles\bin\Debug\GenerateRectangles.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\GenerateRectangles\bin\Debug\GenerateRectangles.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\GenerateRectangles\bin\Debug\GenerateRectangles.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\GenerateRectangles\obj\Debug\GenerateRectangles.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\GenerateRectangles\obj\Debug\GenerateRectangles.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\GenerateRectangles\obj\Debug\GenerateRectangles.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\GenerateRectangles\obj\Debug\GenerateRectangles.pdb

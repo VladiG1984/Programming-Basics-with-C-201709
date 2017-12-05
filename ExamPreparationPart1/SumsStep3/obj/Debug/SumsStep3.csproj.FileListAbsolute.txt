@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\SumsStep3\bin\Debug\SumsStep3.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\SumsStep3\bin\Debug\SumsStep3.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\SumsStep3\bin\Debug\SumsStep3.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\SumsStep3\obj\Debug\SumsStep3.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\SumsStep3\obj\Debug\SumsStep3.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\SumsStep3\obj\Debug\SumsStep3.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\SumsStep3\obj\Debug\SumsStep3.pdb

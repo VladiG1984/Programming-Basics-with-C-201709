@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RhombusOfStars\obj\Debug\RhombusOfStars.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RhombusOfStars\obj\Debug\RhombusOfStars.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\DrawingOnTheConsole\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

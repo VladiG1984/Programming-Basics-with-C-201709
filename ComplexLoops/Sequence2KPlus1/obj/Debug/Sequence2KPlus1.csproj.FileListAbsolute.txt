@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Sequence2KPlus1\bin\Debug\Sequence2KPlus1.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Sequence2KPlus1\bin\Debug\Sequence2KPlus1.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Sequence2KPlus1\bin\Debug\Sequence2KPlus1.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Sequence2KPlus1\obj\Debug\Sequence2KPlus1.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Sequence2KPlus1\obj\Debug\Sequence2KPlus1.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Sequence2KPlus1\obj\Debug\Sequence2KPlus1.pdb

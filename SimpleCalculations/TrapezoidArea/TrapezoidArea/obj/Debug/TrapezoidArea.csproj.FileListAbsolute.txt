@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\TrapezoidArea\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\TrapezoidArea\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\TrapezoidArea\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\TrapezoidArea\TrapezoidArea\obj\Debug\TrapezoidArea.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\TrapezoidArea\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\TrapezoidArea\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

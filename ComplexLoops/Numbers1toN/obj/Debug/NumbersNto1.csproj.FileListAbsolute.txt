@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Numbers1toN\obj\Debug\NumbersNto1.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Numbers1toN\bin\Debug\Numbers1toN.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Numbers1toN\bin\Debug\Numbers1toN.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Numbers1toN\bin\Debug\Numbers1toN.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Numbers1toN\obj\Debug\Numbers1toN.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Numbers1toN\obj\Debug\Numbers1toN.pdb

@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Sums3Numbers\bin\Debug\Sums3Numbers.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Sums3Numbers\bin\Debug\Sums3Numbers.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Sums3Numbers\bin\Debug\Sums3Numbers.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Sums3Numbers\obj\Debug\Sums3Numbers.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Sums3Numbers\obj\Debug\Sums3Numbers.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Sums3Numbers\obj\Debug\Sums3Numbers.pdb

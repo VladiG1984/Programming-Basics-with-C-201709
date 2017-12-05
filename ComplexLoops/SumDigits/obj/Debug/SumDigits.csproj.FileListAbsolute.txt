@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\SumDigits\bin\Debug\SumDigits.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\SumDigits\bin\Debug\SumDigits.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\SumDigits\bin\Debug\SumDigits.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\SumDigits\obj\Debug\SumDigits.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\SumDigits\obj\Debug\SumDigits.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\SumDigits\obj\Debug\SumDigits.pdb

@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\FruitShop\bin\Debug\FruitShop.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\FruitShop\bin\Debug\FruitShop.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\FruitShop\bin\Debug\FruitShop.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\FruitShop\obj\Debug\FruitShop.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\FruitShop\obj\Debug\FruitShop.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\FruitShop\obj\Debug\FruitShop.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\FruitShop\obj\Debug\FruitShop.pdb

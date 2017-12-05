@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\MobileOperator\bin\Debug\MobileOperator.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\MobileOperator\bin\Debug\MobileOperator.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\MobileOperator\bin\Debug\MobileOperator.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\MobileOperator\obj\Debug\MobileOperator.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\MobileOperator\obj\Debug\MobileOperator.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\MobileOperator\obj\Debug\MobileOperator.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Exam20170917\MobileOperator\obj\Debug\MobileOperator.pdb

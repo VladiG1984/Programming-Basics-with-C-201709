@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\ExcellentOrNotExcellent\bin\Debug\ExcellentOrNotExcellent.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\ExcellentOrNotExcellent\bin\Debug\ExcellentOrNotExcellent.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\ExcellentOrNotExcellent\bin\Debug\ExcellentOrNotExcellent.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\ExcellentOrNotExcellent\obj\Debug\ExcellentOrNotExcellent.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\ExcellentOrNotExcellent\obj\Debug\ExcellentOrNotExcellent.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\ExcellentOrNotExcellent\obj\Debug\ExcellentOrNotExcellent.pdb

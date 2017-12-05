@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\ChangeTiles\bin\Debug\ChangeTiles.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\ChangeTiles\bin\Debug\ChangeTiles.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\ChangeTiles\bin\Debug\ChangeTiles.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\ChangeTiles\obj\Debug\ChangeTiles.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\ChangeTiles\obj\Debug\ChangeTiles.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\ChangeTiles\obj\Debug\ChangeTiles.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\ChangeTiles\obj\Debug\ChangeTiles.pdb

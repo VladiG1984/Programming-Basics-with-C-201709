@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\Nums1to20\Nums1to20\obj\Debug\Nums1to20.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\Nums1to20\Nums1to20\bin\Debug\Nums1to20.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\Nums1to20\Nums1to20\bin\Debug\Nums1to20.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\Nums1to20\Nums1to20\bin\Debug\Nums1to20.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\Nums1to20\Nums1to20\obj\Debug\Nums1to20.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\HelloCSharp\Nums1to20\Nums1to20\obj\Debug\Nums1to20.pdb

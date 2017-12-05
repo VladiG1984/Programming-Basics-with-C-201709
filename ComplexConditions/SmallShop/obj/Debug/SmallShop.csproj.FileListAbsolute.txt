@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\SmallShop\bin\Debug\SmallShop.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\SmallShop\bin\Debug\SmallShop.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\SmallShop\bin\Debug\SmallShop.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\SmallShop\obj\Debug\SmallShop.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\SmallShop\obj\Debug\SmallShop.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\SmallShop\obj\Debug\SmallShop.pdb

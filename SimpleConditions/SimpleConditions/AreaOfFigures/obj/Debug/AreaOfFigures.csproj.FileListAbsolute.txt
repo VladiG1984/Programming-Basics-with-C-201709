@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\AreaOfFigures\bin\Debug\AreaOfFigures.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\AreaOfFigures\bin\Debug\AreaOfFigures.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\AreaOfFigures\obj\Debug\AreaOfFigures.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleConditions\SimpleConditions\AreaOfFigures\obj\Debug\AreaOfFigures.pdb

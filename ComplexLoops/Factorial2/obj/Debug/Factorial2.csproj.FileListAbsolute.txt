@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Factorial2\bin\Debug\Factorial2.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Factorial2\bin\Debug\Factorial2.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Factorial2\bin\Debug\Factorial2.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Factorial2\obj\Debug\Factorial2.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Factorial2\obj\Debug\Factorial2.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Factorial2\obj\Debug\Factorial2.pdb

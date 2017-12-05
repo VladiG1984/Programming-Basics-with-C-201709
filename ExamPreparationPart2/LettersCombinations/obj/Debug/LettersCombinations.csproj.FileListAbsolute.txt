@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\LettersCombinations\bin\Debug\LettersCombinations.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\LettersCombinations\bin\Debug\LettersCombinations.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\LettersCombinations\bin\Debug\LettersCombinations.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\LettersCombinations\obj\Debug\LettersCombinations.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\LettersCombinations\obj\Debug\LettersCombinations.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\LettersCombinations\obj\Debug\LettersCombinations.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart2\LettersCombinations\obj\Debug\LettersCombinations.pdb

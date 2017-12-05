@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.pdb

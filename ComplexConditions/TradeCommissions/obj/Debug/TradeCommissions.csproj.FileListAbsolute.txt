@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\TradeCommissions\obj\Debug\TradeCommissions.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\TradeCommissions\obj\Debug\TradeCommissions.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\TradeCommissions\bin\Debug\TradeCommissions.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\TradeCommissions\bin\Debug\TradeCommissions.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\TradeCommissions\bin\Debug\TradeCommissions.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\TradeCommissions\obj\Debug\TradeCommissions.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexConditions\TradeCommissions\obj\Debug\TradeCommissions.pdb

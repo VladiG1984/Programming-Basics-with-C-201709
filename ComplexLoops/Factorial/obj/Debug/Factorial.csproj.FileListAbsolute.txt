@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Factorial\bin\Debug\Factorial.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Factorial\bin\Debug\Factorial.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Factorial\bin\Debug\Factorial.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Factorial\obj\Debug\Factorial.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ComplexLoops\Factorial\obj\Debug\Factorial.pdb

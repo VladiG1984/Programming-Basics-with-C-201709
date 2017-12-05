@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Increasing4Numbers\bin\Debug\Increasing4Numbers.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Increasing4Numbers\bin\Debug\Increasing4Numbers.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Increasing4Numbers\bin\Debug\Increasing4Numbers.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Increasing4Numbers\obj\Debug\Increasing4Numbers.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Increasing4Numbers\obj\Debug\Increasing4Numbers.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Increasing4Numbers\obj\Debug\Increasing4Numbers.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\ExamPreparationPart1\Increasing4Numbers\obj\Debug\Increasing4Numbers.pdb

@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\2D_RectangleArea\2D_RectangleArea\bin\Debug\2D_RectangleArea.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\2D_RectangleArea\2D_RectangleArea\bin\Debug\2D_RectangleArea.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\2D_RectangleArea\2D_RectangleArea\bin\Debug\2D_RectangleArea.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\2D_RectangleArea\2D_RectangleArea\obj\Debug\2D_RectangleArea.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\2D_RectangleArea\2D_RectangleArea\obj\Debug\2D_RectangleArea.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\2D_RectangleArea\2D_RectangleArea\obj\Debug\2D_RectangleArea.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\SimpleCalculations\2D_RectangleArea\2D_RectangleArea\obj\Debug\2D_RectangleArea.pdb
