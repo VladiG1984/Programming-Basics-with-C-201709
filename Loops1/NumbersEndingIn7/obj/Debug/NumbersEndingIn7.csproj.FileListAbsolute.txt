@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\NumbersEndingIn7\bin\Debug\NumbersEndingIn7.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\NumbersEndingIn7\bin\Debug\NumbersEndingIn7.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\NumbersEndingIn7\bin\Debug\NumbersEndingIn7.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\NumbersEndingIn7\obj\Debug\NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\NumbersEndingIn7\obj\Debug\NumbersEndingIn7.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\NumbersEndingIn7\obj\Debug\NumbersEndingIn7.pdb

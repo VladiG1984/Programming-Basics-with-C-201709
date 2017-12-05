@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\OddEvenPosition\bin\Debug\OddEvenPosition.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\OddEvenPosition\bin\Debug\OddEvenPosition.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\OddEvenPosition\bin\Debug\OddEvenPosition.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\OddEvenPosition\obj\Debug\OddEvenPosition.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\OddEvenPosition\obj\Debug\OddEvenPosition.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\OddEvenPosition\obj\Debug\OddEvenPosition.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\OddEvenPosition\obj\Debug\OddEvenPosition.pdb

@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\SumNumbers\bin\Debug\SumNumbers.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\SumNumbers\bin\Debug\SumNumbers.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\SumNumbers\bin\Debug\SumNumbers.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\SumNumbers\obj\Debug\SumNumbers.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\SumNumbers\obj\Debug\SumNumbers.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\SumNumbers\obj\Debug\SumNumbers.pdb

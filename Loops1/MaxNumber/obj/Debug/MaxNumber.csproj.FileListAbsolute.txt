@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\MaxNumber\bin\Debug\MaxNumber.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\MaxNumber\bin\Debug\MaxNumber.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\MaxNumber\bin\Debug\MaxNumber.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\MaxNumber\obj\Debug\MaxNumber.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\MaxNumber\obj\Debug\MaxNumber.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\MaxNumber\obj\Debug\MaxNumber.pdb

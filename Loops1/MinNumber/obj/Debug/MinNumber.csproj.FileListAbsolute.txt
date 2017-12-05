@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\MinNumber\bin\Debug\MinNumber.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\MinNumber\bin\Debug\MinNumber.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\MinNumber\bin\Debug\MinNumber.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\MinNumber\obj\Debug\MinNumber.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\MinNumber\obj\Debug\MinNumber.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\MinNumber\obj\Debug\MinNumber.pdb

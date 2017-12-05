@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

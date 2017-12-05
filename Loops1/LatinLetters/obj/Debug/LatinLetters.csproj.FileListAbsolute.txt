@@ -1,0 +1,6 @@
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\LatinLetters\bin\Debug\LatinLetters.exe.config
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\LatinLetters\bin\Debug\LatinLetters.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\LatinLetters\bin\Debug\LatinLetters.pdb
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\LatinLetters\obj\Debug\LatinLetters.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\LatinLetters\obj\Debug\LatinLetters.exe
+D:\IT обучение\SoftUni\Programming Basics\C# Code\Loops\LatinLetters\obj\Debug\LatinLetters.pdb
